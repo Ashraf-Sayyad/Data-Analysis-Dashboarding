@@ -1,8 +1,7 @@
 # Data-Analysis-Dashboarding
 Understand customer demographics and purchase patterns to strategize sales growth in 2023.
 
-
-Here’s a structured approach to create an **Annual Sales Report for Vrinda Store (2022)** using Excel:
+**Annual Sales Report for Vrinda Store (2022)**
 
 ---
 
@@ -103,5 +102,3 @@ Focus on:
 2. Advertising on Amazon, Flipkart, and Myntra using personalized offers, coupons, and discounts.
 
 ---
-
-This structured report in Excel will provide clear insights and actionable strategies for improving sales in 2023. Let me know if you need help implementing this or creating formulas in Excel!
