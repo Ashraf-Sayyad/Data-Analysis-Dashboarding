@@ -26,6 +26,12 @@ Understand customer demographics and purchase patterns to strategize sales growt
    - Consolidate sales data from all channels (Amazon, Flipkart, Myntra).
    - Ensure age, gender, and geographic data are properly tagged.
 
+ 
+---
+- Dashboard Interaction
+  
+![Annual Sales Report for Vrinda Store](https://github.com/user-attachments/assets/df8e275f-0447-4a36-ba68-9ac40591a658)
+
 ---
 
 ### **Analysis with Excel**
@@ -93,13 +99,6 @@ Understand customer demographics and purchase patterns to strategize sales growt
 
 3. **Top Channels**:
    - Amazon, Flipkart, Myntra contribute ~80%.
-
- 
----
-- Dashboard Interaction
-  
-![Annual Sales Report for Vrinda Store](https://github.com/user-attachments/assets/df8e275f-0447-4a36-ba68-9ac40591a658)
-
 
 ---
 
