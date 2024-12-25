@@ -94,15 +94,16 @@ Understand customer demographics and purchase patterns to strategize sales growt
 3. **Top Channels**:
    - Amazon, Flipkart, Myntra contribute ~80%.
 
----
-
-### **Final Conclusion**
-Focus on:
-1. Women (30-49 years) from Maharashtra, Karnataka, and Uttar Pradesh.
-2. Advertising on Amazon, Flipkart, and Myntra using personalized offers, coupons, and discounts.
  
 ---
 - Dashboard Interaction
   
 ![Annual Sales Report for Vrinda Store](https://github.com/user-attachments/assets/df8e275f-0447-4a36-ba68-9ac40591a658)
 
+
+---
+
+### **Final Conclusion**
+Focus on:
+1. Women (30-49 years) from Maharashtra, Karnataka, and Uttar Pradesh.
+2. Advertising on Amazon, Flipkart, and Myntra using personalized offers, coupons, and discounts.
